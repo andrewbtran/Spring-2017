@@ -20,4 +20,4 @@ Goal:
     *Workers' comp benefits: How much is a limb worth?[[Interactive](http://projects.propublica.org/graphics/workers-compensation-benefits-by-limb)]
                                  
                    
-**[Previous class](class21.md)** | **[Next class](23.md)**
+**[Previous class](class21.md)** | **[Next class](class23.md)**

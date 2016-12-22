@@ -18,4 +18,4 @@ Goal: Loops for directory of spreadsheets
 #### Lab
 
                    
-**[Previous class](class10.md)** | **[Next class](12.md)**
+**[Previous class](class10.md)** | **[Next class](class12.md)**

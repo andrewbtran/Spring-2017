@@ -18,4 +18,4 @@ Goal: Funky excel structures
 #### Lab
 
                    
-**[Previous class](class12.md)** | **[Next class](14.md)**
+**[Previous class](class12.md)** | **[Next class](class14.md)**

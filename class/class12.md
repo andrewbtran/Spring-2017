@@ -23,4 +23,4 @@ Goal:
                                  *How the Sun Sentinel reported coverage of off-duty cops[[Context](http://www.ire.org/blog/ire-news/2013/04/15/how-sun-sentinel-reported-its-pulitzer-prize-winni/)]
                                  
                    
-**[Previous class](class11.md)** | **[Next class](13.md)**
+**[Previous class](class11.md)** | **[Next class](class13.md)**

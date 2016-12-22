@@ -18,4 +18,4 @@ Goal:
 #### Discussion
 
                    
-**[Previous class](class28.md)** | **[Next class](30.md)**
+**[Previous class](class28.md)** | **[Next class](class30.md)**

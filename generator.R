@@ -92,7 +92,7 @@ Goal: ", class_sheet$Details, "
   } else {
     exit <- paste0("
                    
-**[Previous class](class", i-1, ".md)** | **[Next class](", i+1, ".md)**")
+**[Previous class](class", i-1, ".md)** | **[Next class](class", i+1, ".md)**")
   }
   
   markdown <- paste0(markdown, class_markdown, exit)  

@@ -20,4 +20,4 @@ Goal:
     *As the seas rise, a slow-motion disaster gnaws at America's shores[[Story](http://www.reuters.com/investigates/special-report/waters-edge-the-crisis-of-rising-sea-levels/)]
                                  
                    
-**[Previous class](class17.md)** | **[Next class](19.md)**
+**[Previous class](class17.md)** | **[Next class](class19.md)**

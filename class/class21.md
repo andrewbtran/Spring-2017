@@ -18,4 +18,4 @@ Goal:
 #### Lab
 
                    
-**[Previous class](class20.md)** | **[Next class](22.md)**
+**[Previous class](class20.md)** | **[Next class](class22.md)**

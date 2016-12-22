@@ -20,4 +20,4 @@ Goal: FOIA requests, other official means
     *City rape statistics, investigations draw concern[[Story](http://www.baltimoresun.com/news/bs-md-ci-rapes-20100519-story.html)]
                                  
                    
-**[Previous class](class7.md)** | **[Next class](9.md)**
+**[Previous class](class7.md)** | **[Next class](class9.md)**
