@@ -7,8 +7,6 @@
 ## Class 8
 Tuesday - Feb. 21
                              
-----
-                             
 ### Getting data
                              
 #### Digging for data

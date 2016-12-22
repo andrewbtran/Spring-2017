@@ -7,8 +7,6 @@
 ## Class 22
 Thursday - Apr. 25
                              
-----
-                             
 ### Telling stories with data
                              
 #### Spatial analysis

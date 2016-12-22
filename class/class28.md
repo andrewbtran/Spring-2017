@@ -7,8 +7,6 @@
 ## Class 28
 Tuesday - May 16
                              
-----
-                             
 ### Final project
                              
 #### Turn in final draft of story

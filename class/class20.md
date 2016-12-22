@@ -7,8 +7,6 @@
 ## Class 20
 Thursday - Apr. 18
                              
-----
-                             
 ### Telling stories with data
                              
 #### Data visualizations

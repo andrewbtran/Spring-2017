@@ -7,8 +7,6 @@
 ## Class 9
 Thursday - Feb. 23
                              
-----
-                             
 ### Getting data
                              
 #### R: Scraping data, using APIs

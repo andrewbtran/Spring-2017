@@ -7,8 +7,6 @@
 ## Class 3
 Thursday - Feb. 2
                              
-----
-                             
 ### Introduction to data journalism
                              
 #### R: Intro, RMarkdown

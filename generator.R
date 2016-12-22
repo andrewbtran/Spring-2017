@@ -29,8 +29,6 @@ for (i in 1:nrow(schedule)) {
     class_markdown <- paste0("## Class ", class_sheet$Class, "
 ", class_sheet$Day, " - ", class_sheet$Date, "
                              
-----
-                             
 ### ", class_sheet$Section, "
                              
 #### ", class_sheet$Purpose, "

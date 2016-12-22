@@ -7,8 +7,6 @@
 ## Class 23
 Tuesday - Apr. 27
                              
-----
-                             
 ### Telling stories with data
                              
 #### R: ggmap, choroplethr, leaflet

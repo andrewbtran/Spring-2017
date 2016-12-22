@@ -7,8 +7,6 @@
 ## Class 17
 Tuesday - Apr. 6
                              
-----
-                             
 ### Understanding data
                              
 #### R: dplyr, tidyverse

@@ -7,8 +7,6 @@
 ## Class 26
 Tuesday - May 9
                              
-----
-                             
 ### Telling stories with data
                              
 #### Stories as apps

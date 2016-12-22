@@ -7,8 +7,6 @@
 ## Class 5
 Thursday - Feb. 9
                              
-----
-                             
 ### Introduction to data journalism
                              
 #### R: Simple visualizations

@@ -7,8 +7,6 @@
 ## Class 13
 Thursday - Mar. 9
                              
-----
-                             
 ### Understanding data
                              
 #### R: rvest, rpdf, rtabula

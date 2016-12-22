@@ -7,8 +7,6 @@
 ## Class 24
 Thursday - May 2
                              
-----
-                             
 ### Telling stories with data
                              
 #### Text mining

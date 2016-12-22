@@ -7,8 +7,6 @@
 ## Class 29
 Thursday - May 18
                              
-----
-                             
 ### Final project
                              
 #### 

@@ -7,8 +7,6 @@
 ## Class 14
 Thursday - Mar. 28
                              
-----
-                             
 ### Understanding data
                              
 #### What are good statistics

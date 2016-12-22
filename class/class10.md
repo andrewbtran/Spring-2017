@@ -7,8 +7,6 @@
 ## Class 10
 Tuesday - Feb. 28
                              
-----
-                             
 ### Getting data
                              
 #### The trouble with data

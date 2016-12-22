@@ -7,8 +7,6 @@
 ## Class 27
 Thursday - May 11
                              
-----
-                             
 ### Telling stories with data
                              
 #### R: Shiny

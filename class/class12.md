@@ -7,8 +7,6 @@
 ## Class 12
 Tuesday - Mar. 7
                              
-----
-                             
 ### Understanding data
                              
 #### Dealing with troublesome data

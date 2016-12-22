@@ -7,8 +7,6 @@
 ## Class 7
 Thursday - Feb. 16
                              
-----
-                             
 ### Getting data
                              
 #### R: Importing different data sets

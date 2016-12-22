@@ -7,8 +7,6 @@
 ## Class 4
 Tuesday - Feb. 7
                              
-----
-                             
 ### Introduction to data journalism
                              
 #### What is good data visualization

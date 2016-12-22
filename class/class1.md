@@ -7,8 +7,6 @@
 ## Class 1
 Thursday - Jan. 26
                              
-----
-                             
 ### Welcome to class
                              
 #### Introduction to data journalism

@@ -7,8 +7,6 @@
 ## Class 2
 Tuesday - Jan. 31
                              
-----
-                             
 ### Introduction to data journalism
                              
 #### What is good journalism

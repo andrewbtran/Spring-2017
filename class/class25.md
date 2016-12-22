@@ -7,8 +7,6 @@
 ## Class 25
 Tuesday - May 4
                              
-----
-                             
 ### Telling stories with data
                              
 #### R: 

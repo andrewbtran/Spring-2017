@@ -7,8 +7,6 @@
 ## Class 21
 Tuesday - Apr. 20
                              
-----
-                             
 ### Telling stories with data
                              
 #### R: ggplot2

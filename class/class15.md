@@ -7,8 +7,6 @@
 ## Class 15
 Tuesday - Mar. 30
                              
-----
-                             
 ### Understanding data
                              
 #### R: Calculations

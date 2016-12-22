@@ -7,8 +7,6 @@
 ## Class 16
 Thursday - Apr. 4
                              
-----
-                             
 ### Understanding data
                              
 #### Bringing together data

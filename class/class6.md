@@ -7,8 +7,6 @@
 ## Class 6
 Tuesday - Feb. 14
                              
-----
-                             
 ### Getting data
                              
 #### Thinking about data

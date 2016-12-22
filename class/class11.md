@@ -7,8 +7,6 @@
 ## Class 11
 Thursday - Mar. 2
                              
-----
-                             
 ### Getting data
                              
 #### R: stringr, lubridate, NAs

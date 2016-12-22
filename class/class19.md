@@ -7,8 +7,6 @@
 ## Class 19
 Tuesday - Apr. 13
                              
-----
-                             
 ### Understanding data
                              
 #### R: Linear regression, modeling

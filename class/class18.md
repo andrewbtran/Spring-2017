@@ -7,8 +7,6 @@
 ## Class 18
 Thursday - Apr. 11
                              
-----
-                             
 ### Understanding data
                              
 #### Advanced calculations
