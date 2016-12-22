@@ -18,7 +18,7 @@ Goal: Original data
 #### Discussion
 
     
-* About those rising murder rates: Not so fast[[Story](https://www.themarshallproject.org/2015/09/04/about-those-rising-murder-rates-not-so-fast#.harDBv0bK)]
+* About those rising murder rates: Not so fast [[Story](https://www.themarshallproject.org/2015/09/04/about-those-rising-murder-rates-not-so-fast#.harDBv0bK)]
                                  
                    
 **[Previous class](class5.md)** | **[Next class](class7.md)**
