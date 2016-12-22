@@ -17,7 +17,8 @@ Goal:
                              
 #### Discussion
 
-    * Underfoot, out of reach[[Story](http://www.pulitzer.org/winners/bristol-va-herald-courier)]
+    
+* Underfoot, out of reach[[Story](http://www.pulitzer.org/winners/bristol-va-herald-courier)]
                                  
                    
 **[Previous class](class9.md)** | **[Next class](class11.md)**
