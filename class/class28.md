@@ -1,21 +1,21 @@
 # Introduction to Data Journalism
   
-  #### Wesleyan University - Spring 2017
+#### Wesleyan University - Spring 2017
   
-  **Andrew Ba Tran and Robert Kabacoff**
+**Andrew Ba Tran and Robert Kabacoff**
   
-  ## Class 28
-                             Tuesday - May 16
+## Class 28
+Tuesday - May 16
                              
-                             ----
+----
                              
-                             ### Final project
+### Final project
                              
-                             #### Turn in final draft of story
+#### Turn in final draft of story
                              
-                             Goal: 
+Goal: 
                              
-                             #### Discussion
-                             
+#### Discussion
+
                    
-                   **[Previous class](class27.md)** | **[Next class](29.md)**
+**[Previous class](class27.md)** | **[Next class](29.md)**

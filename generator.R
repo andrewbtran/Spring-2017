@@ -10,11 +10,11 @@ for (i in 1:nrow(schedule)) {
   
   markdown <- "# Introduction to Data Journalism
   
-  #### Wesleyan University - Spring 2017
+#### Wesleyan University - Spring 2017
   
-  **Andrew Ba Tran and Robert Kabacoff**
+**Andrew Ba Tran and Robert Kabacoff**
   
-  "
+"
   
   class_sheet <- subset(schedule, Class==i)
   class_stories <- subset(stories, Class==i)
@@ -27,18 +27,18 @@ for (i in 1:nrow(schedule)) {
   if(nrow(class_sheet)!=0) {
     
     class_markdown <- paste0("## Class ", class_sheet$Class, "
-                             ", class_sheet$Day, " - ", class_sheet$Date, "
+", class_sheet$Day, " - ", class_sheet$Date, "
                              
-                             ----
+----
                              
-                             ### ", class_sheet$Section, "
+### ", class_sheet$Section, "
                              
-                             #### ", class_sheet$Purpose, "
+#### ", class_sheet$Purpose, "
                              
-                             Goal: ", class_sheet$Details, "
+Goal: ", class_sheet$Details, "
                              
-                             #### ", ifelse(grepl("R: ", as.character(class_sheet$Purpose)), "Lab", "Discussion"), "
-                             ")
+#### ", ifelse(grepl("R: ", as.character(class_sheet$Purpose)), "Lab", "Discussion"), "
+")
   }
   if(nrow(class_stories)!=0) {
     stories_markdown <- "
@@ -70,12 +70,12 @@ for (i in 1:nrow(schedule)) {
     hw_markdown <- paste0("
 #### Homework
                           
-                          |Type|Where|Details|
-                          |---|---|---|")
+|Type|Where|Details|
+|---|---|---|")
     for (x in 1:nrow(class_hw)) {
       hw_markdown <- paste0(hw_markdown,
                             "
-                            |", class_hw$Type[x], "|", class_hw$Where[x], "|", ifelse(is.na(class_hw$Link[x]), class_hw$Specifics[x], paste0("[", class_hw$Specifics[x], "](", class_hw$Link[x], ")|")))
+|", class_hw$Type[x], "|", class_hw$Where[x], "|", ifelse(is.na(class_hw$Link[x]), class_hw$Specifics[x], paste0("[", class_hw$Specifics[x], "](", class_hw$Link[x], ")|")))
     }
     
     class_markdown <- paste0(class_markdown, hw_markdown)
@@ -84,15 +84,15 @@ for (i in 1:nrow(schedule)) {
   if (i == 1) {
     exit <- "
     
-    **[Next class](class2.md)**"
+**[Next class](class2.md)**"
   } else if (i==nrow(schedule)) {
     exit <- "
     
-    **[Previous class](class28.md)**"
+**[Previous class](class28.md)**"
   } else {
     exit <- paste0("
                    
-                   **[Previous class](class", i-1, ".md)** | **[Next class](", i+1, ".md)**")
+**[Previous class](class", i-1, ".md)** | **[Next class](", i+1, ".md)**")
   }
   
   markdown <- paste0(markdown, class_markdown, exit)  

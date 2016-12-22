@@ -1,21 +1,21 @@
 # Introduction to Data Journalism
   
-  #### Wesleyan University - Spring 2017
+#### Wesleyan University - Spring 2017
   
-  **Andrew Ba Tran and Robert Kabacoff**
+**Andrew Ba Tran and Robert Kabacoff**
   
-  ## Class 9
-                             Thursday - Feb. 23
+## Class 9
+Thursday - Feb. 23
                              
-                             ----
+----
                              
-                             ### Getting data
+### Getting data
                              
-                             #### R: Scraping data, using APIs
+#### R: Scraping data, using APIs
                              
-                             Goal: 
+Goal: 
                              
-                             #### Lab
-                             
+#### Lab
+
                    
-                   **[Previous class](class8.md)** | **[Next class](10.md)**
+**[Previous class](class8.md)** | **[Next class](10.md)**

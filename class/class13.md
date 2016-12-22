@@ -1,21 +1,21 @@
 # Introduction to Data Journalism
   
-  #### Wesleyan University - Spring 2017
+#### Wesleyan University - Spring 2017
   
-  **Andrew Ba Tran and Robert Kabacoff**
+**Andrew Ba Tran and Robert Kabacoff**
   
-  ## Class 13
-                             Thursday - Mar. 9
+## Class 13
+Thursday - Mar. 9
                              
-                             ----
+----
                              
-                             ### Understanding data
+### Understanding data
                              
-                             #### R: rvest, rpdf, rtabula
+#### R: rvest, rpdf, rtabula
                              
-                             Goal: Funky excel structures
+Goal: Funky excel structures
                              
-                             #### Lab
-                             
+#### Lab
+
                    
-                   **[Previous class](class12.md)** | **[Next class](14.md)**
+**[Previous class](class12.md)** | **[Next class](14.md)**

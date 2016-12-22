@@ -1,23 +1,23 @@
 # Introduction to Data Journalism
   
-  #### Wesleyan University - Spring 2017
+#### Wesleyan University - Spring 2017
   
-  **Andrew Ba Tran and Robert Kabacoff**
+**Andrew Ba Tran and Robert Kabacoff**
   
-  ## Class 22
-                             Thursday - Apr. 25
+## Class 22
+Thursday - Apr. 25
                              
-                             ----
+----
                              
-                             ### Telling stories with data
+### Telling stories with data
                              
-                             #### Spatial analysis
+#### Spatial analysis
                              
-                             Goal: 
+Goal: 
                              
-                             #### Discussion
-                             
+#### Discussion
+
     *Workers' comp benefits: How much is a limb worth?[[Interactive](http://projects.propublica.org/graphics/workers-compensation-benefits-by-limb)]
                                  
                    
-                   **[Previous class](class21.md)** | **[Next class](23.md)**
+**[Previous class](class21.md)** | **[Next class](23.md)**

@@ -1,23 +1,23 @@
 # Introduction to Data Journalism
   
-  #### Wesleyan University - Spring 2017
+#### Wesleyan University - Spring 2017
   
-  **Andrew Ba Tran and Robert Kabacoff**
+**Andrew Ba Tran and Robert Kabacoff**
   
-  ## Class 8
-                             Tuesday - Feb. 21
+## Class 8
+Tuesday - Feb. 21
                              
-                             ----
+----
                              
-                             ### Getting data
+### Getting data
                              
-                             #### Digging for data
+#### Digging for data
                              
-                             Goal: FOIA requests, other official means
+Goal: FOIA requests, other official means
                              
-                             #### Discussion
-                             
+#### Discussion
+
     *City rape statistics, investigations draw concern[[Story](http://www.baltimoresun.com/news/bs-md-ci-rapes-20100519-story.html)]
                                  
                    
-                   **[Previous class](class7.md)** | **[Next class](9.md)**
+**[Previous class](class7.md)** | **[Next class](9.md)**

@@ -1,21 +1,21 @@
 # Introduction to Data Journalism
   
-  #### Wesleyan University - Spring 2017
+#### Wesleyan University - Spring 2017
   
-  **Andrew Ba Tran and Robert Kabacoff**
+**Andrew Ba Tran and Robert Kabacoff**
   
-  ## Class 15
-                             Tuesday - Mar. 30
+## Class 15
+Tuesday - Mar. 30
                              
-                             ----
+----
                              
-                             ### Understanding data
+### Understanding data
                              
-                             #### R: Calculations
+#### R: Calculations
                              
-                             Goal: 
+Goal: 
                              
-                             #### Lab
-                             
+#### Lab
+
                    
-                   **[Previous class](class14.md)** | **[Next class](16.md)**
+**[Previous class](class14.md)** | **[Next class](16.md)**

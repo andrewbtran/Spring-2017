@@ -1,23 +1,23 @@
 # Introduction to Data Journalism
   
-  #### Wesleyan University - Spring 2017
+#### Wesleyan University - Spring 2017
   
-  **Andrew Ba Tran and Robert Kabacoff**
+**Andrew Ba Tran and Robert Kabacoff**
   
-  ## Class 18
-                             Thursday - Apr. 11
+## Class 18
+Thursday - Apr. 11
                              
-                             ----
+----
                              
-                             ### Understanding data
+### Understanding data
                              
-                             #### Advanced calculations
+#### Advanced calculations
                              
-                             Goal: 
+Goal: 
                              
-                             #### Discussion
-                             
+#### Discussion
+
     *As the seas rise, a slow-motion disaster gnaws at America's shores[[Story](http://www.reuters.com/investigates/special-report/waters-edge-the-crisis-of-rising-sea-levels/)]
                                  
                    
-                   **[Previous class](class17.md)** | **[Next class](19.md)**
+**[Previous class](class17.md)** | **[Next class](19.md)**

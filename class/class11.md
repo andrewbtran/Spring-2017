@@ -1,21 +1,21 @@
 # Introduction to Data Journalism
   
-  #### Wesleyan University - Spring 2017
+#### Wesleyan University - Spring 2017
   
-  **Andrew Ba Tran and Robert Kabacoff**
+**Andrew Ba Tran and Robert Kabacoff**
   
-  ## Class 11
-                             Thursday - Mar. 2
+## Class 11
+Thursday - Mar. 2
                              
-                             ----
+----
                              
-                             ### Getting data
+### Getting data
                              
-                             #### R: stringr, lubridate, NAs
+#### R: stringr, lubridate, NAs
                              
-                             Goal: Loops for directory of spreadsheets
+Goal: Loops for directory of spreadsheets
                              
-                             #### Lab
-                             
+#### Lab
+
                    
-                   **[Previous class](class10.md)** | **[Next class](12.md)**
+**[Previous class](class10.md)** | **[Next class](12.md)**

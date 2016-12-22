@@ -1,21 +1,21 @@
 # Introduction to Data Journalism
   
-  #### Wesleyan University - Spring 2017
+#### Wesleyan University - Spring 2017
   
-  **Andrew Ba Tran and Robert Kabacoff**
+**Andrew Ba Tran and Robert Kabacoff**
   
-  ## Class 7
-                             Thursday - Feb. 16
+## Class 7
+Thursday - Feb. 16
                              
-                             ----
+----
                              
-                             ### Getting data
+### Getting data
                              
-                             #### R: Importing different data sets
+#### R: Importing different data sets
                              
-                             Goal: 
+Goal: 
                              
-                             #### Lab
-                             
+#### Lab
+
                    
-                   **[Previous class](class6.md)** | **[Next class](8.md)**
+**[Previous class](class6.md)** | **[Next class](8.md)**

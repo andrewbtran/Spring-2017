@@ -1,21 +1,21 @@
 # Introduction to Data Journalism
   
-  #### Wesleyan University - Spring 2017
+#### Wesleyan University - Spring 2017
   
-  **Andrew Ba Tran and Robert Kabacoff**
+**Andrew Ba Tran and Robert Kabacoff**
   
-  ## Class 19
-                             Tuesday - Apr. 13
+## Class 19
+Tuesday - Apr. 13
                              
-                             ----
+----
                              
-                             ### Understanding data
+### Understanding data
                              
-                             #### R: Linear regression, modeling
+#### R: Linear regression, modeling
                              
-                             Goal: 
+Goal: 
                              
-                             #### Lab
-                             
+#### Lab
+
                    
-                   **[Previous class](class18.md)** | **[Next class](20.md)**
+**[Previous class](class18.md)** | **[Next class](20.md)**

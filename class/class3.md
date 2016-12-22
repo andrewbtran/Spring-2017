@@ -1,21 +1,21 @@
 # Introduction to Data Journalism
   
-  #### Wesleyan University - Spring 2017
+#### Wesleyan University - Spring 2017
   
-  **Andrew Ba Tran and Robert Kabacoff**
+**Andrew Ba Tran and Robert Kabacoff**
   
-  ## Class 3
-                             Thursday - Feb. 2
+## Class 3
+Thursday - Feb. 2
                              
-                             ----
+----
                              
-                             ### Introduction to data journalism
+### Introduction to data journalism
                              
-                             #### R: Intro, RMarkdown
+#### R: Intro, RMarkdown
                              
-                             Goal: 
+Goal: 
                              
-                             #### Lab
-                             
+#### Lab
+
                    
-                   **[Previous class](class2.md)** | **[Next class](4.md)**
+**[Previous class](class2.md)** | **[Next class](4.md)**

@@ -1,23 +1,23 @@
 # Introduction to Data Journalism
   
-  #### Wesleyan University - Spring 2017
+#### Wesleyan University - Spring 2017
   
-  **Andrew Ba Tran and Robert Kabacoff**
+**Andrew Ba Tran and Robert Kabacoff**
   
-  ## Class 10
-                             Tuesday - Feb. 28
+## Class 10
+Tuesday - Feb. 28
                              
-                             ----
+----
                              
-                             ### Getting data
+### Getting data
                              
-                             #### The trouble with data
+#### The trouble with data
                              
-                             Goal: 
+Goal: 
                              
-                             #### Discussion
-                             
+#### Discussion
+
     *Underfoot, out of reach[[Story](http://www.pulitzer.org/winners/bristol-va-herald-courier)]
                                  
                    
-                   **[Previous class](class9.md)** | **[Next class](11.md)**
+**[Previous class](class9.md)** | **[Next class](11.md)**

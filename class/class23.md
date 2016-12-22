@@ -1,21 +1,21 @@
 # Introduction to Data Journalism
   
-  #### Wesleyan University - Spring 2017
+#### Wesleyan University - Spring 2017
   
-  **Andrew Ba Tran and Robert Kabacoff**
+**Andrew Ba Tran and Robert Kabacoff**
   
-  ## Class 23
-                             Tuesday - Apr. 27
+## Class 23
+Tuesday - Apr. 27
                              
-                             ----
+----
                              
-                             ### Telling stories with data
+### Telling stories with data
                              
-                             #### R: ggmap, choroplethr, leaflet
+#### R: ggmap, choroplethr, leaflet
                              
-                             Goal: 
+Goal: 
                              
-                             #### Lab
-                             
+#### Lab
+
                    
-                   **[Previous class](class22.md)** | **[Next class](24.md)**
+**[Previous class](class22.md)** | **[Next class](24.md)**
