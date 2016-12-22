@@ -5,15 +5,16 @@ lab <- read.csv("https://docs.google.com/spreadsheets/d/1gJqIkW3PRWrYfLL0Tq2IQIm
 lectures <- read.csv("https://docs.google.com/spreadsheets/d/1gJqIkW3PRWrYfLL0Tq2IQImxHQeqq11_RUEntXJjrh0/pub?gid=1150744298&single=true&output=csv", stringsAsFactors=F)
 
 
-markdown <- "# Introduction to Data Journalism
-
-#### Wesleyan University - Spring 2017
-
-**Andrew Ba Tran and Robert Kabacoff**
-
-"
-
-for (i in 1:nrow(sheet)) {
+for (i in 1:nrow(schedule)) {
+  
+  
+  markdown <- "# Introduction to Data Journalism
+  
+  #### Wesleyan University - Spring 2017
+  
+  **Andrew Ba Tran and Robert Kabacoff**
+  
+  "
   
   class_sheet <- subset(schedule, Class==i)
   class_stories <- subset(stories, Class==i)
@@ -83,15 +84,15 @@ for (i in 1:nrow(sheet)) {
   if (i == 1) {
     exit <- "
     
-    **[Next class](class2.html)**"
+    **[Next class](class2.md)**"
   } else if (i==nrow(schedule)) {
     exit <- "
     
-    **[Previous class](class28.html)**"
+    **[Previous class](class28.md)**"
   } else {
     exit <- paste0("
                    
-                   **[Previous class](class", i-1, ".html)** | **[Next class](", i+1, ".html)**")
+                   **[Previous class](class", i-1, ".md)** | **[Next class](", i+1, ".md)**")
   }
   
   markdown <- paste0(markdown, class_markdown, exit)  
