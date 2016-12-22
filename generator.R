@@ -9,7 +9,7 @@ markdown <- "# Introduction to Data Journalism
 
 #### Wesleyan University - Spring 2017
 
-** Andrew Ba Tran and Robert Kabacoff **
+**Andrew Ba Tran and Robert Kabacoff**
 
 "
 
@@ -22,31 +22,31 @@ for (i in 1:nrow(sheet)) {
   class_lect <- subset(lectures, Class==i)
   
   
-    
-  if(nrow(class_sheet)!=0) {
   
-  class_markdown <- paste0("## Class ", class_sheet$Class, "
-", class_sheet$Day, " - ", class_sheet$Date, "
-
-----
-
-### ", class_sheet$Section, "
-
-#### ", class_sheet$Purpose, "
-
-Goal: ", class_sheet$Details, "
-                           
-#### ", ifelse(grepl("R: ", as.character(class_sheet$Purpose)), "Lab", "Discussion"), "
-")
+  if(nrow(class_sheet)!=0) {
+    
+    class_markdown <- paste0("## Class ", class_sheet$Class, "
+                             ", class_sheet$Day, " - ", class_sheet$Date, "
+                             
+                             ----
+                             
+                             ### ", class_sheet$Section, "
+                             
+                             #### ", class_sheet$Purpose, "
+                             
+                             Goal: ", class_sheet$Details, "
+                             
+                             #### ", ifelse(grepl("R: ", as.character(class_sheet$Purpose)), "Lab", "Discussion"), "
+                             ")
   }
   if(nrow(class_stories)!=0) {
     stories_markdown <- "
     "
-            for (x in 1:nrow(class_stories)) {
-              stories_markdown <- paste0(stories_markdown, "*", class_stories$Title[x], "[[", class_stories$Type[x], "](", class_stories$Link[x], ")]
-                                   ")
-              
-            }
+    for (x in 1:nrow(class_stories)) {
+      stories_markdown <- paste0(stories_markdown, "*", class_stories$Title[x], "[[", class_stories$Type[x], "](", class_stories$Link[x], ")]
+                                 ")
+      
+    }
     
     class_markdown <- paste0(class_markdown, stories_markdown)
     
@@ -57,43 +57,44 @@ Goal: ", class_sheet$Details, "
     "
     for (x in 1:nrow(class_lab)) {
       lab_markdown <- paste0(lab_markdown[x], "*", class_lab$Title[x], "[[", class_lab$Type[x], "](", class_lab$Link[x], ")]
-                           ")
+                             ")
       
     }
     
     lab_markdown <- paste0(class_markdown, lab_markdown)
     
   }
-
+  
   if(nrow(class_hw)!=0) {
-    hw_markdown <- paste0("#### Homework
-                        
-|Type|Where|Details|
-|---|---|---|")
+    hw_markdown <- paste0("
+#### Homework
+                          
+                          |Type|Where|Details|
+                          |---|---|---|")
     for (x in 1:nrow(class_hw)) {
       hw_markdown <- paste0(hw_markdown,
-"
-|", class_hw$Type[x], "|", class_hw$Where[x], "|", ifelse(is.na(class_hw$Link[x]), class_hw$Specifics[x], paste0("[", class_hw$Specifics[x], "](", class_hw$Link[x], ")|")))
+                            "
+                            |", class_hw$Type[x], "|", class_hw$Where[x], "|", ifelse(is.na(class_hw$Link[x]), class_hw$Specifics[x], paste0("[", class_hw$Specifics[x], "](", class_hw$Link[x], ")|")))
     }
     
     class_markdown <- paste0(class_markdown, hw_markdown)
-  }
+    }
   
   if (i == 1) {
     exit <- "
-
-**[Next class](class2.html)**"
+    
+    **[Next class](class2.html)**"
   } else if (i==nrow(schedule)) {
     exit <- "
-
-**[Previous class](class28.html)**"
+    
+    **[Previous class](class28.html)**"
   } else {
     exit <- paste0("
-
-**[Previous class](class", i-1, ".html)** | **[Next class](", i+1, ".html)**")
+                   
+                   **[Previous class](class", i-1, ".html)** | **[Next class](", i+1, ".html)**")
   }
-
+  
   markdown <- paste0(markdown, class_markdown, exit)  
   write(markdown, paste0("class/class", i, ".md"))
   
-}
+  }
