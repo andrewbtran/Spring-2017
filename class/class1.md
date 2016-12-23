@@ -11,20 +11,12 @@ Thursday - Jan. 26
                              
 #### Introduction to data journalism
                              
-Goal: Set expectations for class, explain syllabus, grading structure, Summary of data journalism
+Goal: Set expectations for class, explain syllabus, grading structure, introduce ideas
                              
 #### Discussion
 
     
 * Journalism and data [[Presentation]()]
-                                 
-* In Watertown, residents wated for good news [[Story](https://www.bostonglobe.com/metro/2013/04/19/watertown-community-unaccustomed-violence-finds-itself-under-siege/4s2MuwvgQAestYSh2bAn6I/story.html)]
-                                 
-* Carjack victim recounts harrowing night [[Story](https://www.bostonglobe.com/metro/2013/04/25/carjack-victim-recounts-his-harrowing-night/FX6CAnypP1NbrMuPFb6zTM/story.html)]
-                                 
-* Marathon bombing timeline [[Interactive](https://www.bostonglobe.com/2013/04/27/marathon-bombing-timeline/9RL3oUZRmJZ4mJRFB5hkxK/story.html)]
-                                 
-* Thousands offer homes to stranded Boston marathoners [[Interactive](http://archive.boston.com/yourtown/specials/boston_locals_offer_their_homes/)]
                                  
 #### Homework
                           
