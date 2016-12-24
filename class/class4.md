@@ -39,5 +39,6 @@ Goal: Understanding the basics of good reporting, structure, and storytelling th
 |Type|Where|Details|
 |---|---|---|
 |Reading|The Truthful Art|[Chapter 2: The five qualities of good visualizations]()|
+|Reading|WSJ Guide to Information Graphics|[Chapter 2: Chart smart]()|
                    
 **[Previous class](class3.md)** | **[Next class](class5.md)**

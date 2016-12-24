@@ -15,6 +15,9 @@ Goal: Base and ggplot2 charting
                              
 #### Lab
 
+* Race on Broadway [[Data](https://www.dropbox.com/sh/lw66dmszbpipx38/AADIw_CyMfjD0OAkEIC0-RGAa?dl=0)]
+* Gathering data on race on Broadway [[Story](http://qz.com/842610/broadways-race-problem-is-unmasked-by-data-but-the-theater-industry-is-still-stuck-in-neutral/)]
+
 #### Homework
                           
 |Type|Where|Details|
