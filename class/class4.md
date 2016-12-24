@@ -26,7 +26,7 @@ Goal: Understanding the basics of good reporting, structure, and storytelling th
                                  
 * Hamilton is the very model of a modern fast-paced musical [[FiveThirtyEight](http://fivethirtyeight.com/datalab/hamilton-is-the-very-model-of-a-modern-fast-paced-musical/)]
                                  
-* #Ham4Ham [[broadway-beats](http://joannaskao.com/broadway-beats/ham4ham/)]
+* Ham4Ham [[broadway-beats](http://joannaskao.com/broadway-beats/ham4ham/)]
                                  
 * The Business of Broadway [[WSJ](http://graphics.wsj.com/business-of-broadway/)]
                                  
