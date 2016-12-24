@@ -11,7 +11,7 @@ Thursday - Feb. 9
                              
 #### R: Simple visualizations
                              
-Goal: 
+Goal: Base and ggplot2 charting
                              
 #### Lab
 

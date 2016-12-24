@@ -11,7 +11,7 @@ Thursday - Feb. 2
                              
 #### R: Intro, RMarkdown
                              
-Goal: 
+Goal: Load data, data structures, basic summaries
                              
 #### Lab
 NA* District level means in grade equivalent units [[Data](https://stacks.stanford.edu/file/druid:db586ns4974/district%20means%20grade%20equivalent%20std%20(gs)%20(pooled%20year,%20grade%20and%20sub)_v1_1.csv)]
@@ -21,7 +21,6 @@ NA* District level means in grade equivalent units [[Data](https://stacks.stanfo
 |Type|Where|Details|
 |---|---|---|
 |Reading|The Truthful Art|[Chapter 1: What we talk about when we talk about visualization]()|
-|Reading|The Truthful Art|[Chapter 2: The five qualities of good visualizations]()|
 |Reading|WSJ Guide to Information Graphics|[Chapter 1: The Basics]()|
 |Reading|Polygraph|[An interactive visualization of every line in Hamilton](http://polygraph.cool/hamilton/)|
 |Reading|WSJ|[How does 'Hamilton' the non stop, hip-hop Broadway sensation tap rap's master rhymes to blur musical lines?](http://graphics.wsj.com/hamilton/)|

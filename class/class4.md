@@ -34,5 +34,10 @@ Goal: Understanding the basics of good reporting, structure, and storytelling th
                                  
 * How unaffordable are Hamilton tickets [[The Thrust](http://thethrust.net/how-unaffordable-are-hamilton-tickets/)]
                                  
+#### Homework
+                          
+|Type|Where|Details|
+|---|---|---|
+|Reading|The Truthful Art|[Chapter 2: The five qualities of good visualizations]()|
                    
 **[Previous class](class3.md)** | **[Next class](class5.md)**
