@@ -11,7 +11,7 @@ Tuesday - Feb. 7
                              
 #### What is good data visualization
                              
-Goal: 
+Goal: Understanding the basics of good reporting, structure, and storytelling through visualizations.
                              
 #### Discussion
 

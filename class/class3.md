@@ -15,5 +15,8 @@ Goal:
                              
 #### Lab
 
+    
+* Connecticut schools data [[Data]()]
+                                 
                    
 **[Previous class](class2.md)** | **[Next class](class4.md)**
