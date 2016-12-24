@@ -17,11 +17,11 @@ Goal: Understanding the basics of good reporting, structure, and storytelling th
 
     
 * The Most Amazing Bowling Story Ever [[Story](http://www.dmagazine.com/publications/d-magazine/2012/july/the-most-amazing-bowling-story-ever-bill-fong/)]
-                                 
+
 * The Problem We All Live With [[Podcast](https://www.thisamericanlife.org/radio-archives/episode/562/the-problem-we-all-live-with)]
-                                 
+
 * The Problem We All Live With (Transcript) [[Story](https://www.thisamericanlife.org/radio-archives/episode/562/transcript)]
-                                 
+
 #### Homework
                           
 |Type|Where|Details|

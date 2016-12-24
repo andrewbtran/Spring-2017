@@ -44,7 +44,7 @@ Goal: ", class_sheet$Details, "
     for (x in 1:nrow(class_stories)) {
       stories_markdown <- paste0(stories_markdown, "
 * ", class_stories$Title[x], " [[", class_stories$Type[x], "](", class_stories$Link[x], ")]
-                                 ")
+")
       
     }
     
@@ -54,11 +54,11 @@ Goal: ", class_sheet$Details, "
   
   if(nrow(class_lab)!=0) {
     lab_markdown <- "
-    "
+"
     for (x in 1:nrow(class_lab)) {
       lab_markdown <- paste0(lab_markdown,
 "* ", class_lab$Title[x], " [[", class_lab$Type[x], "](", class_lab$Link[x], ")]
-                             ")
+")
       
     }
     

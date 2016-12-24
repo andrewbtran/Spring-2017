@@ -17,7 +17,7 @@ Goal: Set expectations for class, explain syllabus, grading structure, introduce
 
     
 * Journalism and data [[Presentation]()]
-                                 
+
 #### Homework
                           
 |Type|Where|Details|
