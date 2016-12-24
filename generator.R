@@ -56,7 +56,8 @@ Goal: ", class_sheet$Details, "
     lab_markdown <- "
     "
     for (x in 1:nrow(class_lab)) {
-      lab_markdown <- paste0(lab_markdown, "* ", class_lab$Title[x], " [[", class_lab$Type[x], "](", class_lab$Link[x], ")]
+      lab_markdown <- paste0(lab_markdown,
+"* ", class_lab$Title[x], " [[", class_lab$Type[x], "](", class_lab$Link[x], ")]
                              ")
       
     }
