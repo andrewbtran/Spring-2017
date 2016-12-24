@@ -61,7 +61,7 @@ Goal: ", class_sheet$Details, "
       
     }
     
-    lab_markdown <- paste0(class_markdown, lab_markdown)
+    class_markdown <- paste0(class_markdown, lab_markdown)
     
   }
   
