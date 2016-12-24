@@ -14,7 +14,9 @@ Thursday - Feb. 2
 Goal: Load data, data structures, basic summaries
                              
 #### Lab
-NA* District level means in grade equivalent units [[Data](https://stacks.stanford.edu/file/druid:db586ns4974/district%20means%20grade%20equivalent%20std%20(gs)%20(pooled%20year,%20grade%20and%20sub)_v1_1.csv)]
+
+    * Make our own bowling stats [[Data](http://www.bowling.com)]
+                             * District level means in grade equivalent units [[Data](https://stacks.stanford.edu/file/druid:db586ns4974/district%20means%20grade%20equivalent%20std%20(gs)%20(pooled%20year,%20grade%20and%20sub)_v1_1.csv)]
                              
 #### Homework
                           
