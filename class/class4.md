@@ -40,5 +40,6 @@ Goal: Understanding the basics of good reporting, structure, and storytelling th
 |---|---|---|
 |Reading|The Truthful Art|[Chapter 2: The five qualities of good visualizations]()|
 |Reading|WSJ Guide to Information Graphics|[Chapter 2: Chart smart]()|
+|Reading|QZ|[Gathering data on race on Broadway](http://qz.com/842610/broadways-race-problem-is-unmasked-by-data-but-the-theater-industry-is-still-stuck-in-neutral/)|
                    
 **[Previous class](class3.md)** | **[Next class](class5.md)**
