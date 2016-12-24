@@ -19,6 +19,9 @@ Goal:
                           
 |Type|Where|Details|
 |---|---|---|
+|Reading|Numbers in the Newsroom|[Introduction/Chapter 1: What's a number?]()|
+|Reading|Numbers in the Newsroom|[Chapter 2: A newsroom math guide]()|
+|Reading|Numbers in the Newsroom|[Chapter 4: The standard stories]()|
 |Reading|Wall Street Journal|[The new nationwide crime wave](http://www.wsj.com/articles/the-new-nationwide-crime-wave-1432938425)|
 |Reading|NYTimes|[Murder rates rising sharply in many U.S. cities](http://www.nytimes.com/2015/09/01/us/murder-rates-rising-sharply-in-many-us-cities.html?_r=1)|
                    
