@@ -9,11 +9,16 @@ Thursday - Feb. 16
                              
 ### Getting data
                              
-#### R: Importing different data sets
+#### R: Importing different data sets, calculations
                              
 Goal: 
                              
 #### Lab
 
+#### Homework
+                          
+|Type|Where|Details|
+|---|---|---|
+|Reading|Baltimore Sun|[City rape statistics, investigations draw concern](http://www.baltimoresun.com/news/bs-md-ci-rapes-20100519-story.html)|
                    
 **[Previous class](class6.md)** | **[Next class](class8.md)**

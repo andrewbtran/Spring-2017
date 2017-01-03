@@ -9,7 +9,7 @@ Thursday - Mar. 2
                              
 ### Getting data
                              
-#### R: stringr, lubridate, NAs
+#### R: stringr, lubridate, NAs, cleaning data
                              
 Goal: Loops for directory of spreadsheets
                              
