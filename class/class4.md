@@ -41,5 +41,6 @@ Goal: Understanding the basics of good reporting, structure, and storytelling th
 |Reading|The Truthful Art|[Chapter 2: The five qualities of good visualizations]()|
 |Reading|WSJ Guide to Information Graphics|[Chapter 2: Chart smart]()|
 |Reading|QZ|[Gathering data on race on Broadway](http://qz.com/842610/broadways-race-problem-is-unmasked-by-data-but-the-theater-industry-is-still-stuck-in-neutral/)|
+|Writing|Online|[Pick two stories we read and discussed and describe the structure of the story and dataviz. Reverse engineer the questions or pitch that the reporter presented to his or her boss assuming they had done no reporting yet.]()|
                    
 **[Previous class](class3.md)** | **[Next class](class5.md)**

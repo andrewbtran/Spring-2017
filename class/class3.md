@@ -24,6 +24,7 @@ Goal: Load data, data structures, basic summaries
 |---|---|---|
 |Reading|The Truthful Art|[Chapter 1: What we talk about when we talk about visualization]()|
 |Reading|WSJ Guide to Information Graphics|[Chapter 1: The Basics]()|
+|Coding|R|[Make an array, a data frame]()|
 |Reading|Polygraph|[An interactive visualization of every line in Hamilton](http://polygraph.cool/hamilton/)|
 |Reading|WSJ|[How does 'Hamilton' the non stop, hip-hop Broadway sensation tap rap's master rhymes to blur musical lines?](http://graphics.wsj.com/hamilton/)|
 |Reading|FT|[Wait for it: Last-minute tickets pay off with cheaper prices](https://www.ft.com/content/7cd69f44-26b1-3cd2-9689-c0ebaabc575f)|
