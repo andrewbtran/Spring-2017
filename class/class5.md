@@ -28,5 +28,7 @@ Goal: Base and ggplot2 charting
 |Coding|R|[Make different charts based on this Hamilton data]()|
 |Reading|Sun-Sentinel|[Cops among worst speeders](http://www.sun-sentinel.com/news/speeding-cops/fl-speeding-cops-20120211-story.html)|
 |Reading|Sun-Sentinel|[Database: Speeding Cops in South Florida](http://databases.sun-sentinel.com/news/broward/ftlaudCopSpeeds/ftlaudCopSpeeds_list.php)|
+|Reading|Washington Post|[David Fahrentold tells the behind-the-scenes story of his year covering Trump](https://www.washingtonpost.com/lifestyle/magazine/david-fahrenthold-tells-the-behind-the-scenes-story-of-his-year-covering-trump/2016/12/27/299047c4-b510-11e6-b8df-600bd9d38a02_story.html?utm_term=.322455d0857c)|
+|Reading|Nieman Lab|[How one Washington Post reporter uses pen and paper to make his tracking of Trump get noticed](http://www.niemanlab.org/2016/09/how-one-washington-post-reporter-uses-pen-and-paper-to-make-his-tracking-of-trump-get-noticed/)|
                    
 **[Previous class](class4.md)** | **[Next class](class6.md)**
