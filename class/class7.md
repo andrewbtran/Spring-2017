@@ -20,8 +20,6 @@ Goal:
 
 * Murder rates rising sharply in many U.S. cities [[NYTimes](http://www.nytimes.com/2015/09/01/us/murder-rates-rising-sharply-in-many-us-cities.html?_r=1)]
 
-* datadatadatadatadata [[]()]
-
 * St. Louis crime (STLPD) [[Data](http://www.slmpd.org/Crimereports.shtml)]
 * St. Louis crime (STL Post-Dispatch) [[Data](http://www.stltoday.com/news/local/stl-info/st-louis-crime-reports-for/html_9ffe4219-05aa-526d-92a1-3661d6b66842.html?appSession=801765812861063&RecordID=&PageID=2&PrevPageID=1&cpipage=3&CPISortType=&CPIorderBy=)]
 * FBI Uniform Crime Reporting Statistics (2014) [[Data](https://www.ucrdatatool.gov/)]
@@ -31,6 +29,8 @@ Goal:
                           
 |Type|Where|Details|
 |---|---|---|
+|Reading|The Virginian-Pilot / ProPublica|[The Children of Agent Orange](https://www.propublica.org/article/the-children-of-agent-orange)|
+|Reading|The Virginian-Pilot / ProPublica|[How we obtained the Government's data on Agent Orange and birth defects](https://www.propublica.org/article/children-of-agent-orange-editors-note)|
 |Reading|Baltimore Sun|[City rape statistics, investigations draw concern](http://www.baltimoresun.com/news/bs-md-ci-rapes-20100519-story.html)|
 |Make a chart|St. Louis Post-Dispatch|[Like we did for Baltimore](http://www.stltoday.com/news/local/stl-info/st-louis-crime-reports-for/html_9ffe4219-05aa-526d-92a1-3661d6b66842.html?appSession=801765812861063&RecordID=&PageID=2&PrevPageID=1&cpipage=3&CPISortType=&CPIorderBy=)|
 |Make a chart|St. Louis Police Department|[Like we did for Baltimore](http://www.slmpd.org/Crimereports.shtml)|

@@ -16,9 +16,9 @@ Goal: FOIA requests, other official means
 #### Discussion
 
     
-* About those rising murder rates: Not so fast [[Story](https://www.themarshallproject.org/2015/09/04/about-those-rising-murder-rates-not-so-fast#.harDBv0bK)]
+* The Children of Agent Orange [[The Virginian-Pilot / ProPublica](https://www.propublica.org/article/the-children-of-agent-orange)]
 
-* City rape statistics, investigations draw concern [[Story](http://www.baltimoresun.com/news/bs-md-ci-rapes-20100519-story.html)]
+* How we obtained the Government's data on Agent Orange and birth defects [[The Virginian-Pilot / ProPublica](https://www.propublica.org/article/children-of-agent-orange-editors-note)]
 
                    
 **[Previous class](class7.md)** | **[Next class](class9.md)**
