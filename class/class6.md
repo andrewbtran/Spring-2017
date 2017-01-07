@@ -11,7 +11,7 @@ Tuesday - Feb. 14
                              
 #### Thinking about data, digging for data
                              
-Goal: Original data
+Goal: Considering original data
                              
 #### Discussion
 
