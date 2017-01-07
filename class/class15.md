@@ -5,11 +5,11 @@
 **Andrew Ba Tran and Robert Kabacoff**
   
 ## Class 15
-Tuesday - Mar. 30
+Thursday - Mar. 30
                              
 ### Understanding data
                              
-#### R: Calculations
+#### R: dplyr, tidyverse
                              
 Goal: 
                              

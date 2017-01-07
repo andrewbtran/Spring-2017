@@ -9,7 +9,7 @@ Tuesday - May 9
                              
 ### Telling stories with data
                              
-#### Stories as apps
+#### Let's talk about the eletion
                              
 Goal: 
                              

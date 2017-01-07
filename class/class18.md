@@ -5,11 +5,11 @@
 **Andrew Ba Tran and Robert Kabacoff**
   
 ## Class 18
-Thursday - Apr. 11
+Tuesday - Apr. 11
                              
 ### Understanding data
                              
-#### Advanced calculations
+#### Data visualizations, storyboarding visualizations
                              
 Goal: 
                              

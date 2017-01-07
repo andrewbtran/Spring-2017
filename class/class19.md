@@ -5,11 +5,11 @@
 **Andrew Ba Tran and Robert Kabacoff**
   
 ## Class 19
-Tuesday - Apr. 13
+Thursday - Apr. 13
                              
 ### Understanding data
                              
-#### R: Linear regression, modeling
+#### R: Advanced ggplot2, magick
                              
 Goal: 
                              

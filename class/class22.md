@@ -5,11 +5,11 @@
 **Andrew Ba Tran and Robert Kabacoff**
   
 ## Class 22
-Thursday - Apr. 25
+Tuesday - Apr. 25
                              
 ### Telling stories with data
                              
-#### Spatial analysis
+#### Text mining
                              
 Goal: 
                              

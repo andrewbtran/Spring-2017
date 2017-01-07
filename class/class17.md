@@ -5,11 +5,11 @@
 **Andrew Ba Tran and Robert Kabacoff**
   
 ## Class 17
-Tuesday - Apr. 6
+Thursday - Apr. 6
                              
 ### Understanding data
                              
-#### R: dplyr, tidyverse
+#### R: Linear regression, modeling
                              
 Goal: 
                              

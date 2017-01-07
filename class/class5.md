@@ -15,6 +15,11 @@ Goal: Base and ggplot2 charting
                              
 #### Lab
 
+    
+* Hamilton gross and attendance [[IBDB.com](https://www.ibdb.com/grosses-production/hamilton-499521)]
+
+* Data Pasta [[R package](https://cran.r-project.org/web/packages/datapasta/vignettes/how-to-datapasta.html)]
+
 * Race on Broadway [[Data](https://www.dropbox.com/sh/lw66dmszbpipx38/AADIw_CyMfjD0OAkEIC0-RGAa?dl=0)]
 * Gathering data on race on Broadway [[Story](http://qz.com/842610/broadways-race-problem-is-unmasked-by-data-but-the-theater-industry-is-still-stuck-in-neutral/)]
 

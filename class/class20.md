@@ -5,11 +5,11 @@
 **Andrew Ba Tran and Robert Kabacoff**
   
 ## Class 20
-Thursday - Apr. 18
+Tuesday - Apr. 18
                              
 ### Telling stories with data
                              
-#### Data visualizations
+#### Spatial analysis
                              
 Goal: 
                              

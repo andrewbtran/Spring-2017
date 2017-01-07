@@ -4,7 +4,7 @@
   
 **Andrew Ba Tran and Robert Kabacoff**
   
-## Class 28
+## Class 27
 Tuesday - May 16
                              
 ### Final project

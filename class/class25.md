@@ -5,11 +5,11 @@
 **Andrew Ba Tran and Robert Kabacoff**
   
 ## Class 25
-Tuesday - May 4
+Thursday - May 4
                              
 ### Telling stories with data
                              
-#### R: 
+#### R: Shiny
                              
 Goal: 
                              

@@ -5,11 +5,11 @@
 **Andrew Ba Tran and Robert Kabacoff**
   
 ## Class 21
-Tuesday - Apr. 20
+Thursday - Apr. 20
                              
 ### Telling stories with data
                              
-#### R: ggplot2
+#### R: ggmap, choroplethr, leaflet
                              
 Goal: 
                              

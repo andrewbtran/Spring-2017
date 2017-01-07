@@ -5,11 +5,11 @@
 **Andrew Ba Tran and Robert Kabacoff**
   
 ## Class 23
-Tuesday - Apr. 27
+Thursday - Apr. 27
                              
 ### Telling stories with data
                              
-#### R: ggmap, choroplethr, leaflet
+#### R: tweetr, d3
                              
 Goal: 
                              

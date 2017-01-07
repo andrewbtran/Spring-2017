@@ -4,12 +4,12 @@
   
 **Andrew Ba Tran and Robert Kabacoff**
   
-## Class 29
-Thursday - May 18
+## Class 27
+Tuesday - May 16
                              
 ### Final project
                              
-#### 
+#### Turn in final draft of story
                              
 Goal: 
                              

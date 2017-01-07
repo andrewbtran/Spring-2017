@@ -9,13 +9,15 @@ Tuesday - Feb. 21
                              
 ### Getting data
                              
-#### Digging for data
+#### The trouble with data
                              
 Goal: FOIA requests, other official means
                              
 #### Discussion
 
     
+* About those rising murder rates: Not so fast [[Story](https://www.themarshallproject.org/2015/09/04/about-those-rising-murder-rates-not-so-fast#.harDBv0bK)]
+
 * City rape statistics, investigations draw concern [[Story](http://www.baltimoresun.com/news/bs-md-ci-rapes-20100519-story.html)]
 
                    

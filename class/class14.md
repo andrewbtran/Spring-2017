@@ -5,11 +5,11 @@
 **Andrew Ba Tran and Robert Kabacoff**
   
 ## Class 14
-Thursday - Mar. 28
+Tuesday - Mar. 28
                              
 ### Understanding data
                              
-#### What are good statistics
+#### Bringing together data
                              
 Goal: 
                              

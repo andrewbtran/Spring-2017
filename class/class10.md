@@ -9,7 +9,7 @@ Tuesday - Feb. 28
                              
 ### Getting data
                              
-#### The trouble with data
+#### Dealing with troublesome data
                              
 Goal: 
                              

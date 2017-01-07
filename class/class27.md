@@ -5,15 +5,15 @@
 **Andrew Ba Tran and Robert Kabacoff**
   
 ## Class 27
-Thursday - May 11
+Tuesday - May 16
                              
-### Telling stories with data
+### Final project
                              
-#### R: Shiny
+#### Turn in final draft of story
                              
 Goal: 
                              
-#### Lab
+#### Discussion
 
                    
 **[Previous class](class26.md)** | **[Next class](class28.md)**

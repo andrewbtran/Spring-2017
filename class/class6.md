@@ -9,15 +9,13 @@ Tuesday - Feb. 14
                              
 ### Getting data
                              
-#### Thinking about data
+#### Thinking about data, digging for data
                              
 Goal: Original data
                              
 #### Discussion
 
     
-* About those rising murder rates: Not so fast [[Story](https://www.themarshallproject.org/2015/09/04/about-those-rising-murder-rates-not-so-fast#.harDBv0bK)]
-
 * Florida Highway Patrol arrests Miami police officer dashcam [[YouTube](https://www.youtube.com/watch?v=nq1sscJcZdA&feature=youtu.be)]
 
 * Database: Speeding Cops in South Florida [[Sun-Sentinel](http://databases.sun-sentinel.com/news/broward/ftlaudCopSpeeds/ftlaudCopSpeeds_list.php)]
@@ -33,6 +31,6 @@ Goal: Original data
 |Reading|Wall Street Journal|[The new nationwide crime wave](http://www.wsj.com/articles/the-new-nationwide-crime-wave-1432938425)|
 |Reading|NYTimes|[Murder rates rising sharply in many U.S. cities](http://www.nytimes.com/2015/09/01/us/murder-rates-rising-sharply-in-many-us-cities.html?_r=1)|
 |Reading|St. Louis Post-Dispatch|[Crime up after Ferguson and more police needed](http://www.stltoday.com/news/local/crime-and-courts/crime-up-after-ferguson-and-more-police-needed-top-st/article_04d9f99f-9a9a-51be-a231-1707a57b50d6.html)|
-|Project|Yourself|[Collect data on yourself]()|
+|Project|Yourself|[Collect data on yourself. Project due on...]()|
                    
 **[Previous class](class5.md)** | **[Next class](class7.md)**
