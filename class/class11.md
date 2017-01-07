@@ -11,7 +11,7 @@ Thursday - Mar. 2
                              
 #### R: stringr, lubridate, NAs, cleaning data
                              
-Goal: Loops for directory of spreadsheets
+Goal: 
                              
 #### Lab
 

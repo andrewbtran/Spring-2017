@@ -16,6 +16,8 @@ Goal:
 #### Discussion
 
     
+* Underfoot, out of reach [[Story](http://www.pulitzer.org/winners/bristol-va-herald-courier)]
+
 * US Mass Shootings, 1982-2016 [[Story](http://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data)]
 
                    

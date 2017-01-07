@@ -9,9 +9,9 @@ Thursday - Feb. 23
                              
 ### Getting data
                              
-#### R: Scraping data, using APIs
+#### R: Loops, scraping data, using APIs
                              
-Goal: 
+Goal: Understanding other types of data structures, how web sites handle data, and how to pull data from that
                              
 #### Lab
 
@@ -23,7 +23,12 @@ Goal:
                           
 |Type|Where|Details|
 |---|---|---|
+|Reading|Numbers in the Newsroom|[Chapter 6: Mistakes in the news room]()|
+|Reading|Quartz|[The Quartz guide to bad data](http://qz.com/572338/the-quartz-guide-to-bad-data/)|
+|Reading|GQ|[Inside the Federal Bureau of Way Too Many Guns](http://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns)|
 |Coding|Connecticut General Assembly|[Write a script that scrapes this table and turn it into a dataframe](https://www.cga.ct.gov/asp/menu/hlist.asp)|
-|Coding|Meetup.com API|[Write a script that pulls a list of meetup groups in Middletown](https://www.meetup.com/meetup_api/)|
+|Coding|Stubhub.com API|[Write a script that pulls and creates a dataframe out of Hamilton ticket prices](https://developer.stubhub.com/store/)|
+|Coding|Stubhub.com API tips|[(Here's how you would do it in Python)](http://ozzieliu.com/2016/06/21/scraping-ticket-data-with-stubhub-api/)|
+|Reading|Boston Globe|[The bars where drivers got drunk before OUI arrests](https://www.bostonglobe.com/business/2016/12/31/the-bars-where-drivers-got-drunk-before-their-oui-arrests/6pJV2qmcYExUz4SLEdPjoI/story.html)|
                    
 **[Previous class](class8.md)** | **[Next class](class10.md)**

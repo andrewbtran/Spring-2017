@@ -11,7 +11,7 @@ Thursday - Feb. 16
                              
 #### R: Importing different data sets, calculations
                              
-Goal: Analyzing data, adjusting for population
+Goal: Dealing with Excel files, analyzing data, adjusting for population
                              
 #### Lab
 
