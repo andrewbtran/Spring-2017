@@ -20,6 +20,8 @@ Goal: FOIA requests, other official means
 
 * How we obtained the Government's data on Agent Orange and birth defects [[The Virginian-Pilot / ProPublica](https://www.propublica.org/article/children-of-agent-orange-editors-note)]
 
+* Video chat with Michael Morisy, founder of Muckrock.com [[Muckrock.com](http://www.muckrock.com)]
+
 #### Homework
                           
 |Type|Where|Details|

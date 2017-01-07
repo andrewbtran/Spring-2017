@@ -24,5 +24,7 @@ Goal:
 
 * How the Sun Sentinel reported coverage of off-duty cops [[Context](http://www.ire.org/blog/ire-news/2013/04/15/how-sun-sentinel-reported-its-pulitzer-prize-winni/)]
 
+* Inside the Federal Bureau of Way Too Many Guns [[GQ](http://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns)]
+
                    
 **[Previous class](class11.md)** | **[Next class](class13.md)**
