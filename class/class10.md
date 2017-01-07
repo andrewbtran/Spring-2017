@@ -11,7 +11,7 @@ Tuesday - Feb. 28
                              
 #### The trouble with people
                              
-Goal: 
+Goal: When dealing with numbers it’s so easy to forget that they represent real people. Stories require interviewing sources. That can be difficult, especially when it comes to sensitive topics. Still, empathy and sensitivity leads to more insightful conversation and better stories.
                              
 #### Discussion
 
@@ -24,6 +24,7 @@ Goal:
                           
 |Type|Where|Details|
 |---|---|---|
+|Reading|Numbers in the Newsroom|[Chapter 6: Mistakes in the news room]()|
 |Reading|Quartz|[The Quartz guide to bad data](http://qz.com/572338/the-quartz-guide-to-bad-data/)|
 |Reading|GQ|[Inside the Federal Bureau of Way Too Many Guns](http://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns)|
 |Reading|Boston Globe|[The bars where drivers got drunk before OUI arrests](https://www.bostonglobe.com/business/2016/12/31/the-bars-where-drivers-got-drunk-before-their-oui-arrests/6pJV2qmcYExUz4SLEdPjoI/story.html)|
