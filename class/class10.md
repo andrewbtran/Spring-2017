@@ -20,13 +20,13 @@ Goal: When dealing with numbers it’s so easy to forget that they represent rea
 
 * A revered guest; a family left in shreds [[Boston Globe](http://www.bostonglobe.com/news/special-reports/2002/01/06/revered-guest-family-left-shreds/aLeMSWibvkbQqVqqMBg9MM/story.html)]
 
+* Video chat with Matt Carrol, former Spotlight data reporter and current Northeastern professor [[Northeastern University](https://twitter.com/MattCData)]
+
 #### Homework
                           
 |Type|Where|Details|
 |---|---|---|
-|Reading|Numbers in the Newsroom|[Chapter 6: Mistakes in the news room]()|
 |Reading|Quartz|[The Quartz guide to bad data](http://qz.com/572338/the-quartz-guide-to-bad-data/)|
-|Reading|GQ|[Inside the Federal Bureau of Way Too Many Guns](http://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns)|
-|Reading|Boston Globe|[The bars where drivers got drunk before OUI arrests](https://www.bostonglobe.com/business/2016/12/31/the-bars-where-drivers-got-drunk-before-their-oui-arrests/6pJV2qmcYExUz4SLEdPjoI/story.html)|
+|Reading|11|[The bars where drivers got drunk before OUI arrests](https://www.bostonglobe.com/business/2016/12/31/the-bars-where-drivers-got-drunk-before-their-oui-arrests/6pJV2qmcYExUz4SLEdPjoI/story.html)|
                    
 **[Previous class](class9.md)** | **[Next class](class11.md)**

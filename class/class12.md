@@ -11,7 +11,7 @@ Tuesday - Mar. 7
                              
 #### What are good statistics
                              
-Goal: 
+Goal: How to lie with statistics
                              
 #### Discussion
 
@@ -24,7 +24,12 @@ Goal:
 
 * How the Sun Sentinel reported coverage of off-duty cops [[Context](http://www.ire.org/blog/ire-news/2013/04/15/how-sun-sentinel-reported-its-pulitzer-prize-winni/)]
 
-* Inside the Federal Bureau of Way Too Many Guns [[GQ](http://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns)]
+* The student who caught out the profs [[Story](http://www.bbc.com/news/magazine-22223190)]
 
+#### Homework
+                          
+|Type|Where|Details|
+|---|---|---|
+|Reading|GQ|[Inside the Federal Bureau of Way Too Many Guns](http://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns)|
                    
 **[Previous class](class11.md)** | **[Next class](class13.md)**

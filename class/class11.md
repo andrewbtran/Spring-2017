@@ -11,12 +11,19 @@ Thursday - Mar. 2
                              
 #### R: stringr, lubridate, NAs, cleaning data
                              
-Goal: 
+Goal: Data rarely comes in the format that would be most useful for us. It takes a lot of coaxing to get it into shape for analysis.
                              
 #### Lab
 
     
 * The bars where drivers got drunk before OUI arrests [[Boston Globe](https://www.bostonglobe.com/business/2016/12/31/the-bars-where-drivers-got-drunk-before-their-oui-arrests/6pJV2qmcYExUz4SLEdPjoI/story.html)]
 
+#### Homework
+                          
+|Type|Where|Details|
+|---|---|---|
+|Reading|The Truthful Art|[Chapter 3: The truth continuum]()|
+|Reading|Numbers in the Newsroom|[Chapter 6: Mistakes in the news room]()|
+|Reading|BBC|[The student who caught out the profs](http://www.bbc.com/news/magazine-22223190)|
                    
 **[Previous class](class10.md)** | **[Next class](class12.md)**

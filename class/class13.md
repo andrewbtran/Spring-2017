@@ -11,9 +11,12 @@ Thursday - Mar. 9
                              
 #### R: rvest, rpdf, rtabula
                              
-Goal: Funky excel structures
+Goal: Dealing with PDFs, funky excel structures
                              
 #### Lab
+
+    
+* Inside the Federal Bureau of Way Too Many Guns [[GQ](http://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns)]
 
                    
 **[Previous class](class12.md)** | **[Next class](class14.md)**
