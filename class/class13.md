@@ -18,6 +18,9 @@ Goal: Dealing with PDFs, funky excel structures
     
 * Inside the Federal Bureau of Way Too Many Guns [[GQ](http://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns)]
 
+* FBI NICS Firearm Background Check [[Data](https://www.fbi.gov/file-repository/nics_firearm_checks_-_month_year_by_state.pdf/view)]
+* ATF Time to crime (2014) [[Data](https://www.atf.gov/docs/finalttcsourcerecoverybystate-cy2014xlsx/download)]
+
 #### Homework
                           
 |Type|Where|Details|

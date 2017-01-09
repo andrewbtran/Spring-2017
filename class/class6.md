@@ -24,6 +24,10 @@ Goal: Considering original data
 
 * How one Washington Post reporter uses pen and paper to make his tracking of Trump get noticed [[Nieman Lab](http://www.niemanlab.org/2016/09/how-one-washington-post-reporter-uses-pen-and-paper-to-make-his-tracking-of-trump-get-noticed/)]
 
+* 990 people were shot and killed by police this year [[Washington Post](https://www.washingtonpost.com/graphics/national/police-shootings-year-end/)]
+
+* Fatal Force: A database of all fatal shootings nationwide by police officers [[Washington Post](https://www.washingtonpost.com/policeshootings/)]
+
 #### Homework
                           
 |Type|Where|Details|
