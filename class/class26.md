@@ -9,9 +9,9 @@ Tuesday - May 9
                              
 ### Telling stories with data
                              
-#### Let's talk about the eletion
+#### Let's talk about the election
                              
-Goal: 
+Goal: The problem with probability.
                              
 #### Discussion
 

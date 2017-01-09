@@ -11,9 +11,24 @@ Tuesday - May 2
                              
 #### Stories as apps
                              
-Goal: 
+Goal: Sometimes the story comes from the interaction of the data
                              
 #### Discussion
+
+    
+* What's your pay gap? [[Wall Street Journal](http://graphics.wsj.com/gender-pay-gap/)]
+
+* How you will die [[Flowing Data](http://flowingdata.com/2016/01/19/how-you-will-die/)]
+
+* Guess the Correlation [[gtc](http://guessthecorrelation.com/)]
+
+* Timeline of earth's average temperature [[xkcd](http://xkcd.com/1732/)]
+
+* Gun deaths [[fivethirtyeight](https://fivethirtyeight.com/features/gun-deaths/)]
+
+* How Trump redrew the electoral map, form sea to shining sea [[Washington Post](https://www.washingtonpost.com/graphics/politics/2016-election/election-results-from-coast-to-coast/)]
+
+* How news media covers Trump & Clinton [[Polygraph](http://polygraph.cool/elections/)]
 
                    
 **[Previous class](class23.md)** | **[Next class](class25.md)**

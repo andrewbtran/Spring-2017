@@ -11,7 +11,7 @@ Thursday - May 4
                              
 #### R: Shiny
                              
-Goal: 
+Goal: Lets make some interactives in R
                              
 #### Lab
 

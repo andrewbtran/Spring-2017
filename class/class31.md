@@ -9,9 +9,9 @@ Tuesday - May 16
                              
 ### Final project
                              
-#### Turn in final draft of story
+#### More Shiny
                              
-Goal: 
+Goal: Tweaks to the app
                              
 #### Discussion
 

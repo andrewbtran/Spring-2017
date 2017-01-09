@@ -9,9 +9,9 @@ Thursday - Apr. 20
                              
 ### Telling stories with data
                              
-#### R: ggmap, choroplethr, leaflet
+#### R: Advanced ggplot2, magick
                              
-Goal: 
+Goal: Facets, colors, legends, GIFs
                              
 #### Lab
 

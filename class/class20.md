@@ -9,11 +9,14 @@ Tuesday - Apr. 18
                              
 ### Telling stories with data
                              
-#### Spatial analysis
+#### Data visualizations, storyboarding visualizations
                              
-Goal: 
+Goal: Discussion on static versus interactive. Wide versus responsive.
                              
 #### Discussion
+
+    
+* Living in a poor neighborhood changes everything about your life [[Vox](http://www.vox.com/2016/6/6/11852640/cartoon-poor-neighborhoods)]
 
                    
 **[Previous class](class19.md)** | **[Next class](class21.md)**

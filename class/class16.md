@@ -9,14 +9,14 @@ Tuesday - Apr. 4
                              
 ### Understanding data
                              
-#### Advanced calculations, storyboarding stories
+#### Spatial analysis
                              
-Goal: 
+Goal: Telling a story with maps
                              
 #### Discussion
 
     
-* Arresting words [[Story](http://apps.bostonglobe.com/graphics/2016/04/arresting-words/)]
+* As the seas rise, a slow-motion disaster gnaws at America's shores [[Story](http://www.reuters.com/investigates/special-report/waters-edge-the-crisis-of-rising-sea-levels/)]
 
                    
 **[Previous class](class15.md)** | **[Next class](class17.md)**

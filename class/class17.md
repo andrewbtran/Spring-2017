@@ -9,9 +9,9 @@ Thursday - Apr. 6
                              
 ### Understanding data
                              
-#### R: Linear regression, modeling
+#### R: ggmap, choroplethr, leaflet
                              
-Goal: 
+Goal: Dots on a map and beyond
                              
 #### Lab
 
