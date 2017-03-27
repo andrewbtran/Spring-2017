@@ -20,6 +20,12 @@ Goal: Joining data allows for deeper analysis
 
 * What the 2016 presidential election returns reveal about Connecticut voters [[Trend CT](http://trendct.org/2016/11/15/what-the-2016-presidential-election-results-say-about-connecticut/)]
 
+* Election analysis scripts [[Trend CT](https://github.com/trendct-data/election-2016-r)]
+
+* Joining data: A case study [[Bristol Herald Courier](http://andrewbatran.com/ccsu-2017/slides/joining_data/index.html)]
+
+* A long week in Boston [[Personal Data Viz]()]
+
 #### Homework
                           
 |Type|Where|Details|
