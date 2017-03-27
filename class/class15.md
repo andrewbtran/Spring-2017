@@ -15,8 +15,13 @@ Goal: Coaxing data from difficult formats
                              
 #### Lab
 
+    
+* Inside the Federal Bureau of Way Too Many Guns [[GQ](http://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns)]
+
 * Where firearms seized by Connecticut police come from [[Trend CT](http://trendct.org/2015/12/02/where-guns-came-from-outside-of-connecticut/)]
 * What happens after calls for new gun restrictions?  [[New York Times](http://www.nytimes.com/interactive/2015/12/10/us/gun-sales-terrorism-obama-restrictions.html?_r=0)]
+* FBI NICS Firearm Background Check [[Data](https://www.fbi.gov/file-repository/nics_firearm_checks_-_month_year_by_state.pdf/view)]
+* ATF Time to crime (2014) [[Data](https://www.atf.gov/docs/finalttcsourcerecoverybystate-cy2014xlsx/download)]
 
 #### Homework
                           
