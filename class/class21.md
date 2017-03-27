@@ -4,19 +4,16 @@
   
 **Andrew Ba Tran and Robert Kabacoff**
   
-## Class 20
- - 
+## Class 21
+Thursday - Apr. 20
                              
-### 
+### Telling stories with data
                              
-#### 
+#### R: Spatial analysis and presentation
                              
-Goal: 
+Goal: Mapping with ggplot2, leaflet
                              
-#### 
-
-    
-* Living in a poor neighborhood changes everything about your life [[Vox](http://www.vox.com/2016/6/6/11852640/cartoon-poor-neighborhoods)]
+#### Lab
 
                    
 **[Previous class](class20.md)** | **[Next class](class22.md)**

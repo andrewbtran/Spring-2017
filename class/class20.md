@@ -5,15 +5,15 @@
 **Andrew Ba Tran and Robert Kabacoff**
   
 ## Class 20
- - 
+Tuesday - Apr. 18
                              
-### 
+### Telling stories with data
                              
-#### 
+#### Telling stories with maps
                              
-Goal: 
+Goal: Using geography to tell a story
                              
-#### 
+#### Discussion
 
     
 * Living in a poor neighborhood changes everything about your life [[Vox](http://www.vox.com/2016/6/6/11852640/cartoon-poor-neighborhoods)]

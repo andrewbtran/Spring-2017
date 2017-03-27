@@ -5,15 +5,15 @@
 **Andrew Ba Tran and Robert Kabacoff**
   
 ## Class 18
- - 
+Tuesday - Apr. 11
                              
-### 
+### Understanding data
                              
-#### 
+#### Student presentations on personal data viz
                              
-Goal: 
+Goal: Your data stories
                              
-#### 
+#### Discussion
 
     
 * As the seas rise, a slow-motion disaster gnaws at America's shores [[Story](http://www.reuters.com/investigates/special-report/waters-edge-the-crisis-of-rising-sea-levels/)]
