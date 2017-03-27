@@ -9,7 +9,7 @@ Thursday - Apr. 13
                              
 ### Understanding data
                              
-#### R: Linear regression, modeling
+#### R: Using APIs (working with json)
                              
 Goal: Advanced data diving
                              

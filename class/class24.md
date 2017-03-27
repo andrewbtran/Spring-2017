@@ -9,7 +9,7 @@ Tuesday - May 2
                              
 ### Telling stories with data
                              
-#### Stories as apps
+#### Stories as Apps
                              
 Goal: Sometimes the story comes from the interaction of the data
                              

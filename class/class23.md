@@ -9,7 +9,7 @@ Thursday - Apr. 27
                              
 ### Telling stories with data
                              
-#### R: tweetr, d3
+#### R: D3 maps and other HTML widgets
                              
 Goal: Analyzing social media
                              

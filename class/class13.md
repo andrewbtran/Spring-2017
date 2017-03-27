@@ -9,9 +9,9 @@ Thursday - Mar. 9
                              
 ### Understanding data
                              
-#### R: rvest, rpdf, rtabula
+#### R: Loops, scraping data, using APIs
                              
-Goal: Dealing with PDFs, funky excel structures
+Goal: Data rarely comes in the format that would be most useful for us. It takes a lot of coaxing to get it into shape for analysis.
                              
 #### Lab
 

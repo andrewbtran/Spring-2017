@@ -9,7 +9,7 @@ Tuesday - Apr. 18
                              
 ### Telling stories with data
                              
-#### Data visualizations, storyboarding visualizations
+#### Telling stories with maps
                              
 Goal: Discussion on static versus interactive. Wide versus responsive.
                              

@@ -9,9 +9,9 @@ Thursday - Feb. 23
                              
 ### Getting data
                              
-#### R: Loops, scraping data, using APIs
+#### R: ggplot2 pt 2
                              
-Goal: Understanding other types of data structures, how web sites handle data, and how to pull data from that
+Goal: 
                              
 #### Lab
 

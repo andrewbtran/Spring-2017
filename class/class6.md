@@ -9,9 +9,9 @@ Tuesday - Feb. 14
                              
 ### Getting data
                              
-#### Thinking about data, digging for data
+#### 
                              
-Goal: Considering original data
+Goal: 
                              
 #### Discussion
 

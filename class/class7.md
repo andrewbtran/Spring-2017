@@ -9,11 +9,11 @@ Thursday - Feb. 16
                              
 ### Getting data
                              
-#### R: Importing different data sets, calculations
+#### Thinking about data, digging for data
                              
-Goal: Dealing with Excel files, analyzing data, adjusting for population
+Goal: Considering original data
                              
-#### Lab
+#### Discussion
 
     
 * The new nationwide crime wave [[Wall Street Journal](http://www.wsj.com/articles/the-new-nationwide-crime-wave-1432938425)]

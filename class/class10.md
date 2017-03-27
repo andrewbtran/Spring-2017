@@ -9,9 +9,9 @@ Tuesday - Feb. 28
                              
 ### Getting data
                              
-#### The trouble with people
+#### The trouble with data
                              
-Goal: When dealing with numbers it’s so easy to forget that they represent real people. Stories require interviewing sources. That can be difficult, especially when it comes to sensitive topics. Still, empathy and sensitivity leads to more insightful conversation and better stories.
+Goal: FOIA requests, other official means
                              
 #### Discussion
 

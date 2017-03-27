@@ -9,7 +9,7 @@ Tuesday - Apr. 25
                              
 ### Telling stories with data
                              
-#### Text mining
+#### Explaining census data, storyboarding, text mining
                              
 Goal: Data by gathering and structuring words
                              

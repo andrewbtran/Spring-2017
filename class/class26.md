@@ -9,11 +9,11 @@ Tuesday - May 9
                              
 ### Telling stories with data
                              
-#### Let's talk about the election
+#### R: Shiny pt 2
                              
 Goal: The problem with probability.
                              
-#### Discussion
+#### Lab
 
                    
 **[Previous class](class25.md)** | **[Next class](class27.md)**

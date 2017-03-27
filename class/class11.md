@@ -11,7 +11,7 @@ Thursday - Mar. 2
                              
 #### R: stringr, lubridate, NAs, cleaning data
                              
-Goal: Data rarely comes in the format that would be most useful for us. It takes a lot of coaxing to get it into shape for analysis.
+Goal: Understanding other types of data structures, how web sites handle data, and how to pull data from that
                              
 #### Lab
 

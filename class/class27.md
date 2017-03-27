@@ -9,7 +9,7 @@ Tuesday - May 16
                              
 ### Final project
                              
-#### More Shiny
+#### Final project due
                              
 Goal: Tweaks to the app
                              

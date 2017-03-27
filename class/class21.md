@@ -9,7 +9,7 @@ Thursday - Apr. 20
                              
 ### Telling stories with data
                              
-#### R: Advanced ggplot2, magick
+#### R: Spatial analysis and presentation
                              
 Goal: Facets, colors, legends, GIFs
                              
