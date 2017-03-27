@@ -11,7 +11,7 @@ Tuesday - Apr. 4
                              
 #### R: Scraping data from websites
                              
-Goal: Telling a story with maps
+Goal: Coaxing data from websites
                              
 #### Lab
 

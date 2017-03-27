@@ -11,7 +11,7 @@ Tuesday - May 9
                              
 #### R: Shiny pt 2
                              
-Goal: The problem with probability.
+Goal: More interactive making
                              
 #### Lab
 

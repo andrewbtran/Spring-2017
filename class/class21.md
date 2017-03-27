@@ -11,7 +11,7 @@ Thursday - Apr. 20
                              
 #### R: Spatial analysis and presentation
                              
-Goal: Facets, colors, legends, GIFs
+Goal: Mapping with ggplot2, leaflet
                              
 #### Lab
 

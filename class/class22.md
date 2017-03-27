@@ -11,7 +11,7 @@ Tuesday - Apr. 25
                              
 #### Explaining census data, storyboarding, text mining
                              
-Goal: Data by gathering and structuring words
+Goal: An introduction to Census data, how to structure data stories, and data from words
                              
 #### Discussion
 

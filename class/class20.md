@@ -11,7 +11,7 @@ Tuesday - Apr. 18
                              
 #### Telling stories with maps
                              
-Goal: Discussion on static versus interactive. Wide versus responsive.
+Goal: Using geography to tell a story
                              
 #### Discussion
 

@@ -11,7 +11,7 @@ Tuesday - Apr. 11
                              
 #### Student presentations on personal data viz
                              
-Goal: Deeper data dives and planning stories
+Goal: Your data stories
                              
 #### Discussion
 

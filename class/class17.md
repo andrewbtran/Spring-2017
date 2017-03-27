@@ -11,7 +11,7 @@ Thursday - Apr. 6
                              
 #### Ethics of data / How to lie with statistics
                              
-Goal: Dots on a map and beyond
+Goal: Considering the ethics and purpose of data in journalism stories. How to not mislead with data in stories
                              
 #### Discussion
 

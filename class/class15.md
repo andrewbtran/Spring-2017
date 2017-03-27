@@ -11,7 +11,7 @@ Thursday - Mar. 30
                              
 #### R: Loops, scraping data from PDFs
                              
-Goal: How to analyze data easily and efficiently with certain packages.
+Goal: Coaxing data from difficult formats
                              
 #### Lab
 

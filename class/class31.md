@@ -11,7 +11,7 @@ Tuesday - May 16
                              
 #### Final project due
                              
-Goal: Tweaks to the app
+Goal: Turn in the final version of your project
                              
 #### Discussion
 

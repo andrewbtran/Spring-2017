@@ -11,7 +11,7 @@ Thursday - Apr. 27
                              
 #### R: D3 maps and other HTML widgets
                              
-Goal: Analyzing social media
+Goal: Some advanced R with interactive widgets
                              
 #### Lab
 

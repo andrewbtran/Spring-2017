@@ -9,9 +9,9 @@ Tuesday - Mar. 28
                              
 ### Understanding data
                              
-#### Personal data story example / Case study on cleaning data
+#### Personal data story example / Case study on joining data
                              
-Goal: Joining data allows for deeper analysis. Also an introduction to Census data.
+Goal: Joining data allows for deeper analysis
                              
 #### Discussion
 

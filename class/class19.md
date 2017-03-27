@@ -11,7 +11,7 @@ Thursday - Apr. 13
                              
 #### R: Using APIs (working with json)
                              
-Goal: Advanced data diving
+Goal: Getting structured data from services
                              
 #### Lab
 
