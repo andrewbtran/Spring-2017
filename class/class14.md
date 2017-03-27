@@ -16,6 +16,20 @@ Goal: Joining data allows for deeper analysis
 #### Discussion
 
     
+* The bars where drivers got drunk before OUI arrests [[Boston Globe](https://www.bostonglobe.com/business/2016/12/31/the-bars-where-drivers-got-drunk-before-their-oui-arrests/6pJV2qmcYExUz4SLEdPjoI/story.html)]
+
+* Cleaning data: A case study [[Walkthrough](http://andrewbatran.com/wesleyan-2017/class14/joining-data.html)]
+
+* Joining data: A case study [[Slides](http://andrewbatran.com/wesleyan-2017/class14/index.html)]
+
+* Joining data: A case study [[Walkthrough](http://andrewbatran.com/wesleyan-2017/class14/joining-data.html)]
+
+* Joining data R files [[Github](http://andrewbatran.com/wesleyan-2017/class14/joining-data.zip)]
+
+* Underfoot, out of reach [[Story](http://www.pulitzer.org/winners/bristol-va-herald-courier)]
+
+* A long week in Boston [[Personal Data Viz]()]
+
 * In Watertown, residents waited for good news [[Story](https://www.bostonglobe.com/metro/2013/04/19/watertown-community-unaccustomed-violence-finds-itself-under-siege/4s2MuwvgQAestYSh2bAn6I/story.html)]
 
 * Carjack victim recounts harrowing night [[Story](https://www.bostonglobe.com/metro/2013/04/25/carjack-victim-recounts-his-harrowing-night/FX6CAnypP1NbrMuPFb6zTM/story.html)]
@@ -23,12 +37,6 @@ Goal: Joining data allows for deeper analysis
 * Marathon bombing timeline [[Interactive](https://www.bostonglobe.com/2013/04/27/marathon-bombing-timeline/9RL3oUZRmJZ4mJRFB5hkxK/story.html)]
 
 * Thousands offer homes to stranded Boston marathoners [[Interactive](http://archive.boston.com/yourtown/specials/boston_locals_offer_their_homes/)]
-
-* A long week in Boston [[Personal Data Viz]()]
-
-* Joining data: A case study [[Bristol Herald Courier](http://andrewbatran.com/ccsu-2017/slides/joining_data/index.html)]
-
-* Underfoot, out of reach [[Story](http://www.pulitzer.org/winners/bristol-va-herald-courier)]
 
 #### Homework
                           
