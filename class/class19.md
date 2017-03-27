@@ -4,16 +4,19 @@
   
 **Andrew Ba Tran and Robert Kabacoff**
   
-## Class 19
-Thursday - Apr. 13
+## Class 18
+ - 
                              
-### Understanding data
+### 
                              
-#### R: Using APIs (working with json)
+#### 
                              
-Goal: Getting structured data from services
+Goal: 
                              
-#### Lab
+#### 
+
+    
+* As the seas rise, a slow-motion disaster gnaws at America's shores [[Story](http://www.reuters.com/investigates/special-report/waters-edge-the-crisis-of-rising-sea-levels/)]
 
 #### Homework
                           

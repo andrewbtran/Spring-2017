@@ -5,15 +5,15 @@
 **Andrew Ba Tran and Robert Kabacoff**
   
 ## Class 1
-Thursday - Jan. 26
+ - 
                              
-### Welcome to class
+### 
                              
-#### Introduction to data journalism
+#### 
                              
-Goal: Set expectations for class, explain syllabus, grading structure, introduce ideas
+Goal: 
                              
-#### Discussion
+#### 
 
     
 * Journalism and data [[Presentation]()]

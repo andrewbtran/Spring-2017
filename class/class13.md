@@ -5,15 +5,15 @@
 **Andrew Ba Tran and Robert Kabacoff**
   
 ## Class 13
-Thursday - Mar. 9
+ - 
                              
-### Understanding data
+### 
                              
-#### R: Loops, scraping data, using APIs
+#### 
                              
-Goal: Data rarely comes in the format that would be most useful for us. It takes a lot of coaxing to get it into shape for analysis.
+Goal: 
                              
-#### Lab
+#### 
 
     
 * Inside the Federal Bureau of Way Too Many Guns [[GQ](http://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns)]
