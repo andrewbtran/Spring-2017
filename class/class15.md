@@ -15,21 +15,18 @@ Goal: Coaxing data from difficult formats
                              
 #### Lab
 
-* What the 2016 presidential election returns reveal about Connecticut voters [[Trend CT](http://trendct.org/2016/11/15/what-the-2016-presidential-election-results-say-about-connecticut/)]
-* Github repo [[Data](https://github.com/trendct-data/election-2016-r)]
+* Where firearms seized by Connecticut police come from [[Trend CT](http://trendct.org/2015/12/02/where-guns-came-from-outside-of-connecticut/)]
+* What happens after calls for new gun restrictions?  [[New York Times](http://www.nytimes.com/interactive/2015/12/10/us/gun-sales-terrorism-obama-restrictions.html?_r=0)]
 
 #### Homework
                           
 |Type|Where|Details|
 |---|---|---|
-|Reading|Mother Jones|[Mass shootings](http://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data)|
-|Reading|Reveal|[The wet prince of Bel Aire](https://www.revealnews.org/article/who-is-the-wet-prince-of-bel-air-here-are-the-likely-culprits/)|
-|Reading|Buzzfeed|[Spies in the skies](https://www.buzzfeed.com/peteraldhous/spies-in-the-skies)|
-|Reading|New York Times|[50 maps of the U.S. Cultural Divide](http://www.nytimes.com/interactive/2016/12/26/upshot/duck-dynasty-vs-modern-family-television-maps.html?_r=0)|
-|Reading|Quartz|[The great American word map](https://qz.com/862325/the-great-american-word-mapper/#int/words=dinner_supper&smoothing=3)|
-|Reading|Mapping|[Five years of drought](https://adventuresinmapping.com/2016/07/12/five-years-of-drought/)|
-|Video|Vox|[The bad map we see every presidential election](https://www.youtube.com/watch?v=hlQE4IGFc5A)|
-|Reading|Wall Street Journal|[Field guide to the red and blue America](http://graphics.wsj.com/elections/2016/field-guide-red-blue-america/)|
-|Reading|Washington Post|[How Trump redrew the electoral map, form sea to shining sea](https://www.washingtonpost.com/graphics/politics/2016-election/election-results-from-coast-to-coast/)|
+|Reading|The Data Journalism Handbook|[Getting data from the web](http://datajournalismhandbook.org/1.0/en/getting_data_3.html)|
+|Reading|The Data Journalism Handbook|[Your right to data](http://datajournalismhandbook.org/1.0/en/getting_data_1.html)|
+|Reading|The Data Journalism Handbook|[The web as a data source](http://datajournalismhandbook.org/1.0/en/getting_data_4.html)|
+|Reading|GQ|[Inside the Federal Bureau of Way Too Many Guns](http://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns)|
+|Reading|New York Times|[What happens after calls for new gun restrictions? ](http://www.nytimes.com/interactive/2015/12/10/us/gun-sales-terrorism-obama-restrictions.html?_r=0)|
+|Reading|Trend CT|[Where firearms seized by Connecticut police come from](http://trendct.org/2015/12/02/where-guns-came-from-outside-of-connecticut/)|
                    
 **[Previous class](class14.md)** | **[Next class](class16.md)**

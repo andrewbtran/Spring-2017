@@ -34,12 +34,5 @@ Goal: Coaxing data from websites
 
 * How Trump redrew the electoral map, form sea to shining sea [[Washington Post](https://www.washingtonpost.com/graphics/politics/2016-election/election-results-from-coast-to-coast/)]
 
-#### Homework
-                          
-|Type|Where|Details|
-|---|---|---|
-|Reading|The Data Journalism Handbook|[Getting data from the web](http://datajournalismhandbook.org/1.0/en/getting_data_3.html)|
-|Reading|The Data Journalism Handbook|[Your right to data](http://datajournalismhandbook.org/1.0/en/getting_data_1.html)|
-|Reading|The Data Journalism Handbook|[The web as a data source](http://datajournalismhandbook.org/1.0/en/getting_data_4.html)|
                    
 **[Previous class](class15.md)** | **[Next class](class17.md)**
